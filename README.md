@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Ecoacoustics Signal processing**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Azure**
 
 <br />
 
