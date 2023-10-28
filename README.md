@@ -22,7 +22,9 @@
 <section align="center">
 
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/davidluna-fn/text_summ_end2end&style=horizontal&mode=dark)](https://github.com/davidluna-fn/text_summ_end2end)
+
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/davidluna-fn/ZirconMLAnalysis&style=horizontal&mode=dark)](https://github.com/davidluna-fn/ZirconMLAnalysis)
+
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/davidluna-fn/armelco&style=horizontal&mode=dark)](https://github.com/davidluna-fn/armelco)
 
 </section>
@@ -53,7 +55,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=davidluna-fn&hide=contribs,prs&rank_icon=github"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=davidluna-fn&hide=contribs,prs&rank_icon=github" height=150 />
+  <img src="https://github-readme-stats.vercel.app/api?username=davidluna-fn&hide=contribs,prs&rank_icon=github&theme=algolia" height=150 />
 </picture>
 
 
