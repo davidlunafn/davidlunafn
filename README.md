@@ -1,5 +1,3 @@
-
-
 <h1 align="center"> Hi 👋, I'm David Luna </h1>
 <h2 align="center"> Machine Learning Engineer | Data Scientist </h2>
 
