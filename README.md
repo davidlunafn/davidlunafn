@@ -21,11 +21,11 @@
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 <section align="center">
 
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/davidluna-fn/text_summ_end2end&style=horizontal&mode=dark)](https://github.com/davidlunafn/text_summ_end2end)
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/davidlunafn/text_summ_end2end&style=horizontal&mode=dark)](https://github.com/davidlunafn/text_summ_end2end)
 
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/davidluna-fn/ZirconMLAnalysis&style=horizontal&mode=dark)](https://github.com/davidlunafn/ZirconMLAnalysis)
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/davidlunafn/ZirconMLAnalysis&style=horizontal&mode=dark)](https://github.com/davidlunafn/ZirconMLAnalysis)
 
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/davidluna-fn/armelco&style=horizontal&mode=dark)](https://github.com/davidlunafn/armelco)
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/davidlunafn/armelco&style=horizontal&mode=dark)](https://github.com/davidlunafn/armelco)
 
 </section>
 
