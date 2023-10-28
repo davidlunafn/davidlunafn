@@ -33,30 +33,8 @@
 
 ## Github Stats
 <p align="center">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=davidluna-fn&hide_progress=true&theme=algolia"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=davidluna-fn&hide_progress=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidluna-fn&hide_progress=true" height=150 />
-</picture>
-
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=davidluna-fn&hide=contribs,prs&rank_icon=github&theme=algolia"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=davidluna-fn&hide=contribs,prs&rank_icon=github"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=davidluna-fn&hide=contribs,prs&rank_icon=github&theme=algolia" height=150 />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidluna-fn&hide_progress=true&theme=algolia" height=150 />
+<img src="https://github-readme-stats.vercel.app/api?username=davidluna-fn&hide=contribs,prs&rank_icon=github&theme=algolia" height=150 />
 </p>
 
 ## Tech Stack
