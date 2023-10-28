@@ -57,7 +57,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=davidluna-fn&hide=contribs,prs&rank_icon=github&theme=algolia" height=150 />
 </picture>
-
+</p>
 
 ## Tech Stack
 
