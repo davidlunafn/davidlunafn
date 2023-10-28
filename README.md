@@ -4,7 +4,7 @@
 <h2 align="center"> Machine Learning Engineer | Data Scientist </h2>
 
 [![](https://img.shields.io/badge/davidlunafn-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/davidlunafn)
-[![](https://img.shields.io/badge/davidlunafn-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidlunafn)
+[![](https://img.shields.io/badge/davidluna--fn-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidluna-fn)
 [![](https://img.shields.io/badge/davidlunafn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://codesandbox.io/u/xiaoluoboding)
 
 - 🔬 I'm currently studying for a PhD degree in University of Antioquia Computer Engineering Department
@@ -21,11 +21,11 @@
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 <section align="center">
 
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/davidlunafn/text_summ_end2end&style=horizontal&mode=dark)](https://github.com/davidlunafn/text_summ_end2end)
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/davidluna-fn/text_summ_end2end&style=horizontal&mode=dark)](https://github.com/davidluna-fn/text_summ_end2end)
 
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/davidlunafn/ZirconMLAnalysis&style=horizontal&mode=dark)](https://github.com/davidlunafn/ZirconMLAnalysis)
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/davidluna-fn/ZirconMLAnalysis&style=horizontal&mode=dark)](https://github.com/davidluna-fn/ZirconMLAnalysis)
 
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/davidlunafn/armelco&style=horizontal&mode=dark)](https://github.com/davidlunafn/armelco)
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/davidluna-fn/armelco&style=horizontal&mode=dark)](https://github.com/davidluna-fn/armelco)
 
 </section>
 
@@ -33,8 +33,8 @@
 
 ## Github Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlunafn&hide_progress=true&theme=algolia" height=150 />
-<img src="https://github-readme-stats.vercel.app/api?username=davidlunafn&hide=contribs,prs&rank_icon=github&theme=algolia" height=150 />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidluna-fn&hide_progress=true&theme=algolia" height=150 />
+<img src="https://github-readme-stats.vercel.app/api?username=davidluna-fn&hide=contribs,prs&rank_icon=github&theme=algolia" height=150 />
 </p>
 
 ## Tech Stack
