@@ -4,7 +4,7 @@
 <h2 align="center"> Machine Learning Engineer | Data Scientist </h2>
 
 [![](https://img.shields.io/badge/davidlunafn-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/davidlunafn)
-[![](https://img.shields.io/badge/davidluna--fn-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidluna-fn)
+[![](https://img.shields.io/badge/davidlunafn-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidluna-fn)
 [![](https://img.shields.io/badge/davidlunafn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://codesandbox.io/u/xiaoluoboding)
 
 - 🔬 I'm currently studying for a PhD degree in University of Antioquia Computer Engineering Department
