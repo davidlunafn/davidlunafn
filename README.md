@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm David Luna</h1>
-<h3 align="center">A passionate research and data scientist from Colombia</h3>
 
-<br />
 
-<p align="left"> <a href="https://twitter.com/davidlunafn" target="blank"><img src="https://img.shields.io/twitter/follow/davidlunafn?logo=twitter&style=for-the-badge" alt="davidlunafn" /></a> 
-</p>
+<h1 align="center"> Hi 👋, I'm David Luna </h1>
+<h2 align="center"> Machine Learning Engineer | Data Scientist </h2>
+
+[![](https://img.shields.io/badge/davidlunafn-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/davidlunafn)
+[![](https://img.shields.io/badge/davidluna--fn-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidluna-fn)
+[![](https://img.shields.io/badge/davidlunafn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://codesandbox.io/u/xiaoluoboding)
 
 - 🔬 I'm currently studying for a PhD degree in University of Antioquia Computer Engineering Department
 
@@ -14,149 +15,81 @@
 
 - 🔭 I’m currently working on **Ecoacoustics Signal processing**
 
-- 🌱 I’m currently learning **Azure**
-
-<br />
-
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://twitter.com/davidlunafn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davidlunafn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/davidluna-fn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davidluna-fn" height="30" width="40" /></a>
-<a href="https://instagram.com/davidluna.fn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davidluna.fn" height="30" width="40" /></a>
-</p>
+- 🌱 I’m currently learning **Azure** and **AWS**
 
 
+## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+<section align="center">
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidluna-fn&show_icons=true&locale=en&layout=compact&theme=dark" alt="davidluna-fn" /></p>
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/davidluna-fn/text_summ_end2end&style=horizontal&mode=dark)](https://github.com/davidluna-fn/text_summ_end2end)
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/davidluna-fn/ZirconMLAnalysis&style=horizontal&mode=dark)](https://github.com/davidluna-fn/ZirconMLAnalysis)
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/davidluna-fn/armelco&style=horizontal&mode=dark)](https://github.com/davidluna-fn/armelco)
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=davidluna-fn&show_icons=true&theme=dark" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=davidluna-fn&theme=dark&hide_border=true" width = 400>
-</p>
+</section>
 
-<br />
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
-> Tools, languages, and other things that I like to work with.
+## Github Stats
+<p align="center">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=davidluna-fn&hide_progress=true&theme=algolia"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=davidluna-fn&hide_progress=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidluna-fn&hide_progress=true" height=150 />
+</picture>
 
-<br />
 
-<table aling="center">
-  <tr aling="center">
-    <td align="center" width="96">
-      <a href="https://pytorch.org/">
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48" height="48" alt="Pytorch" />
-      </a>
-      <br>Pytorch&nbsp;
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.python.org">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.postgresql.org">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48" alt="postgresql" />
-      </a>
-      <br>Postgresql
-    </td>
-    <td align="center" width="96">
-      <a href="https://scikit-learn.org/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="scikitlearn" />
-      </a>
-      <br>Scikit learn
-    </td>
-    <td align="center" width="96">
-      <a href="https://pandas.pydata.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="48" height="48" alt="pandas" />
-      </a>
-      <br>Pandas
-    </td>
-    <td align="center" width="96">
-      <a href="https://seaborn.pydata.org/">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="seaborn" />
-      </a>
-      <br>Seaborn
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.tensorflow.org" >
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48" alt="tensorflow" />
-      </a>
-      <br>Tensorflow
-    </td>
-    <td align="center" width="96">
-      <a href="https://opencv.org/">
-        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="48" height="48" alt="Opencv" />
-      </a>
-      <br>Opencv
-    </td>
-        <td align="center" width="96">
-      <a href="https://matplotlib.org/">
-        <img src="./icons/matplotlib.jpeg" width="48" height="48" alt="Matplotlib" />
-      </a>
-      <br>Matplotlib
-    </td>
-    </tr>
-    <tr aling="center">
-    <td align="center" width="96">
-      <a href="https://www.mysql.com/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="mysql" />
-      </a>
-      <br>Mysql
-    </td>
-    <td align="center" width="96"> 
-      <a href="https://www.mathworks.com/" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="48" height="48" alt="matlab" />
-      </a>
-      <br>Matlab
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.linux.org/" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="linux" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center"  width="96">
-      <a href="https://git-scm.com/">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-      <a href="https://www.docker.com/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"  width="48" height="48" alt="docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.w3schools.com/cpp/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="cpp" />
-      </a>
-      <br>C++
-    </td>
-    <td align="center"  width="96">
-      <a href="https://www.gnu.org/software/bash/">
-        <img src="./icons/bash.png" width="48" height="48" alt="bash" />
-      </a>
-      <br>Bash
-    </td>
-    <td align="center" width="96">
-      <a href="https://dash.plotly.com/" >
-        <img src="./icons/dash.jpeg" width="48" height="48" alt="dash" />
-      </a>
-      <br>Dash
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.latex-project.org/" >
-        <img src="./icons/latex.jpeg" width="48" height="48" alt="latex" />
-      </a>
-      <br>Latex
-    </td>
-  </tr>
-</table>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=davidluna-fn&hide=contribs,prs&theme=algolia&rank_icon=github"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=davidluna-fn&hide=contribs,prs&rank_icon=github"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=davidluna-fn&hide=contribs,prs&rank_icon=github" height=150 />
+</picture>
 
-<br />
 
-<img src="https://activity-graph.herokuapp.com/graph?username=davidluna-fn&theme=one-dark&bg_color=20232a&hide_border=true" width="100%"/>
+## Tech Stack
+
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
+![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Wandb](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+![Postgresql](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+
+![Postgresql](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+![Postgresql](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+
+![Postgresql](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dataversioncontrol&logoColor=white)
+
+![Postgresql](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+
+![Postgresql](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+![Postgresql](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+
+![Postgresql](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+
+![Postgresql](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![Postgresql](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+![Postgresql](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+
+![Postgresql](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
