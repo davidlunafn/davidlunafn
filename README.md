@@ -33,8 +33,8 @@
 
 ## Github Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidluna-fn&hide_progress=true&theme=algolia" height=150 />
-<img src="https://github-readme-stats.vercel.app/api?username=davidluna-fn&hide=contribs,prs&rank_icon=github&theme=algolia" height=150 />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlunafn&hide_progress=true&theme=algolia" height=150 />
+<img src="https://github-readme-stats.vercel.app/api?username=davidlunafn&hide=contribs,prs&rank_icon=github&theme=algolia" height=150 />
 </p>
 
 ## Tech Stack
