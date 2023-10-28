@@ -29,8 +29,6 @@
 
 </section>
 
-
-
 ## Github Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidluna-fn&hide_progress=true&theme=algolia" height=150 />
