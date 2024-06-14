@@ -1,9 +1,11 @@
 <h1 align="center"> Hi 👋, I'm David Luna </h1>
 <h2 align="center"> Machine Learning Engineer | Data Scientist </h2>
 
+
 [![](https://img.shields.io/badge/davidlunafn-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/davidlunafn)
 [![](https://img.shields.io/badge/davidluna--fn-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidlunafn)
 [![](https://img.shields.io/badge/davidlunafn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidlunafn/)
+
 
 - 🔬 I'm currently studying for a PhD degree in University of Antioquia Computer Engineering Department
 
@@ -12,7 +14,6 @@
 - 📫 How to reach me: <a href="mailto: davidluna.fn@gmail.com">davidluna.fn@gmail.com</a>
 
 - 🔭 I’m currently working on **GenIA, Machine learning models and MLops**
-
 
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
