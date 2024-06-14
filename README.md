@@ -23,7 +23,7 @@
 
 [![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/davidluna-fn/ZirconMLAnalysis&style=horizontal&mode=dark)](https://github.com/davidluna-fn/zirconvision)
 
-[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/davidluna-fn/armelco&style=horizontal&mode=dark)](https://github.com/davidluna-fn/armelco)
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://github.com/davidlunafn/celebridata&style=horizontal&mode=dark)](https://github.com/davidlunafn/celebridata)
 
 </section>
 
