@@ -27,6 +27,11 @@
 
 </section>
 
+## Github Stats
+<section align="center">
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=davidlunafn&theme=tokyonight&hide_border=true)
+</section>
+
 ## Tech Stack
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
