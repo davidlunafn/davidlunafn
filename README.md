@@ -11,9 +11,8 @@
 
 - 📫 How to reach me: <a href="mailto: davidluna.fn@gmail.com">davidluna.fn@gmail.com</a>
 
-- 🔭 I’m currently working on **Ecoacoustics Signal processing**
+- 🔭 I’m currently working on **GenIA, Machine learning models and MLops**
 
-- 🌱 I’m currently learning **Azure** and **AWS**
 
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
@@ -29,7 +28,9 @@
 
 ## Github Stats
 <section align="center">
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=davidlunafn&theme=tokyonight&hide_border=true)
+  
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=davidlunafn&theme=tokyonight&hide_border=false)</section>
+
 </section>
 
 ## Tech Stack
